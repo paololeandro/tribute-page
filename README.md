@@ -5,6 +5,6 @@ A Tribute Page dedicated to an actor
 - HTML
 - CSS
 
-####PREVIEW
+#### PREVIEW
 
 ![Page Preview](https://i.imgur.com/2EiWpVs.png "Page Preview")
